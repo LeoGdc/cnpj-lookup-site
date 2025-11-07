@@ -25,7 +25,7 @@ Um site simples e intuitivo para consultar informações de empresas brasileiras
 |--------|-------------|
 | Front-end | HTML5, CSS3, JavaScript (ou React, se preferir) |
 | Back-end | Node.js + Express |
-| API | [BarueriCNPJ API]() |
+| API | [BarueriCNPJ API](https://github.com/LeoGdc/BarueriCNPJ-API) |
 | Estilização | TailwindCSS / Bootstrap |
 | Hospedagem (opcional) | Vercel / Render / Netlify |
 
