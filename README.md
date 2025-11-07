@@ -1,6 +1,6 @@
 # 🔍 Consulta CNPJ
 
-Um site simples e intuitivo para consultar informações de empresas brasileiras a partir do **CNPJ**, utilizando a API pública da **ReceitaWS**.
+Um site simples e intuitivo para consultar informações de empresas brasileiras a partir do **CNPJ**, utilizando a API pública da **BarueriCNPJ API**.
 
 ---
 
@@ -23,10 +23,10 @@ Um site simples e intuitivo para consultar informações de empresas brasileiras
 
 | Camada | Tecnologia |
 |--------|-------------|
-| Front-end | HTML5, CSS3, JavaScript (ou React, se preferir) |
+| Front-end | HTML5, CSS3, JavaScript e React |
 | Back-end | Node.js + Express |
 | API | [BarueriCNPJ API](https://github.com/LeoGdc/BarueriCNPJ-API) |
-| Estilização | TailwindCSS / Bootstrap |
+| Estilização | Bootstrap |
 | Hospedagem (opcional) | Vercel / Render / Netlify |
 
 ---
