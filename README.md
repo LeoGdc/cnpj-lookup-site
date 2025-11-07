@@ -25,7 +25,7 @@ Um site simples e intuitivo para consultar informações de empresas brasileiras
 |--------|-------------|
 | Front-end | HTML5, CSS3, JavaScript (ou React, se preferir) |
 | Back-end | Node.js + Express |
-| API | [ReceitaWS](https://www.receitaws.com.br/) |
+| API | [BarueriCNPJ API]() |
 | Estilização | TailwindCSS / Bootstrap |
 | Hospedagem (opcional) | Vercel / Render / Netlify |
 
