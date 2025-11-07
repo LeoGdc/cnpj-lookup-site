@@ -35,5 +35,5 @@ Um site simples e intuitivo para consultar informações de empresas brasileiras
 
 ### 1️⃣ Clone este repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/consulta-cnpj.git
+git clone https://github.com/LeoGdc/cnpj-lookup-site.git
 cd consulta-cnpj
